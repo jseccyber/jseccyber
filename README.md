@@ -46,11 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 
-<div>
-    <img src="https://img.shields.io/badge/-OSCP-FF0000?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-OSEP-FF6347?style=for-the-badge" />
-    
-</div>
+
 
 <!--
 **jseccyber/jseccyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
